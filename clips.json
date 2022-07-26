@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Megamind",
+    "url": "assets/vids/megamind.mkv"
+  },
+  {
+    "id": 2,
+    "name": "Everyone is Fine",
+    "url": "assets/vids/everyoneisfine.mkv"
+  },
+  {
+    "id": 3,
+    "name": "Turbo",
+    "url": "assets/vids/turbo-clip.mkv"
+  },
+  {
+    "id": 4,
+    "name": "Sonic 2",
+    "url": "assets/vids/sonic2-clip.mkv"
+  }
+]

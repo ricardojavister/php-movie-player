@@ -1,0 +1,20 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma-rtl.min.css";
+body {
+  background-color: #000000;
+}
+body .container {
+  width: 1620px;
+}
+body .container nav.navbar {
+  background-color: #000000;
+}
+body .container nav.navbar .navbar-menu .navbar-item a {
+  color: #ffffff;
+}
+body .container nav.navbar .navbar-menu .navbar-item a:hover {
+  color: #e5e5e5;
+  background-color: #000000;
+}
+body .container .columns .column video.vid.zoom {
+  border: 1px red solid !important;
+}/*# sourceMappingURL=styles.css.map */

@@ -1,0 +1,42 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma-rtl.min.css";
+
+body {
+  background-color: #000000;
+  .container {
+    width: 1620px;
+    nav {
+      &.navbar {
+        background-color: #000000;
+        .navbar-menu {
+          .navbar-item {
+            a {
+              color: #ffffff;
+
+              &:hover {
+                color: #e5e5e5;
+                background-color: #000000;
+              }
+            }
+          }
+        }
+      }
+    }
+
+    .columns {
+      .column {
+        video {
+          &.vid {
+            &.zoom {
+              //   position: absolute;
+              //   height: auto;
+              //   width: 400px;
+              //   top: 10px;
+              //   left: 10px;
+              border: 1px red solid !important;
+            }
+          }
+        }
+      }
+    }
+  }
+}
