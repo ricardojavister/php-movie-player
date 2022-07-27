@@ -2,21 +2,21 @@
   {
     "id": 1,
     "name": "Megamind",
-    "url": "assets/vids/megamind.mkv"
+    "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
   },
   {
     "id": 2,
     "name": "Everyone is Fine",
-    "url": "assets/vids/everyoneisfine.mkv"
+    "url": "http://techslides.com/demos/sample-videos/small.mp4"
   },
   {
     "id": 3,
     "name": "Turbo",
-    "url": "assets/vids/turbo-clip.mkv"
+    "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
   },
   {
     "id": 4,
     "name": "Sonic 2",
-    "url": "assets/vids/sonic2-clip.mkv"
+    "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
   }
 ]
